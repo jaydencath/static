@@ -1,0 +1,94 @@
+.logo img {
+    width: 50px;
+    padding: 15px;
+}
+
+header {
+    display: flex;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 80px;
+    background-color: green;
+    color: white;
+    align-content: baseline;
+    
+}
+
+.navbar {
+    display: flex;
+    padding-top: 10px;
+    list-style-type: none;
+    text-align: center;
+}
+
+.navtext {
+    color: white;
+    font-size: 15pt;
+    padding: 20px;
+    justify-content: space-between;
+    text-decoration: none;
+    
+}
+
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+h2 {
+    color: green;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+hook {
+    font-size: 30px;
+    width: 500px;
+    display: flex;
+    text-align: center;
+    padding-left: 700px;
+}
+
+.img1 {
+    width: 350px;
+    padding-left: 250px;
+}
+
+.p4img1 {
+    width: 350px;
+    padding-left: 250px;
+    
+}
+
+.img2 {
+    width: 350px;
+    padding-left: 1000px;
+}
+
+.p4img2 {
+    width: 350px;
+    padding-left: 1050px;
+}
+
+.career {
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.car {
+    text-align: center;
+}
+
+.about {
+    font-size: 30px;
+    text-align: center;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
